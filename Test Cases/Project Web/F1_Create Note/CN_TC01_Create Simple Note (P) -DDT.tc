@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CN_TC01_Create Simple Note (P) -DDT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68656dd6-b94c-4a69-bce8-2068fdb8e892</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>b2d36f09-2b9b-4a89-9a7a-aae311c27501</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/DDT_source</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>b2d36f09-2b9b-4a89-9a7a-aae311c27501</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>NoteAssign</value>
+      <variableId>99d32b85-94d1-45a6-a660-445e52109baf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>99d32b85-94d1-45a6-a660-445e52109baf</id>
+      <masked>false</masked>
+      <name>NoteAssign</name>
+   </variable>
+</TestCaseEntity>
